@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A beautiful Fashion Store like Android App Mock built on Jetpack Compose with compose navigation, hilt and dark theme support and google's app architecture found on uplabs <a href="https://www.uplabs.com/posts/fashion-app-ui-design">Here<a></h4>
+<h4 align="center">A beautiful Fashion Store like Android App Mock built on Jetpack Compose with compose navigation, hilt, dark theme support and google's app architecture found on uplabs <a href="https://www.uplabs.com/posts/fashion-app-ui-design">Here<a></h4>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
