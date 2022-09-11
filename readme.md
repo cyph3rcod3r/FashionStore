@@ -1,18 +1,20 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/cyph3rcod3r/Nike-Store"><img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/app/src/main/res/drawable/nike.png" alt="Fashion-Store" width="200"></a>
+  <a href="https://github.com/cyph3rcod3r/FashionStore"><img src="https://github.com/cyph3rcod3r/FashionStore/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Fashion-Store" width="200"></a>
   <br>
   Fashion-Store, Design Credits: Purwaka Fitra
   <br>
 </h1>
 
-<h4 align="center">A beautiful Fashion Store like Android App Mock built on Jetpack Compose with navigation found on uplabs <a href="https://www.uplabs.com/posts/fashion-app-ui-design">Here<a></h4>
+<h4 align="center">A beautiful Fashion Store like Android App Mock built on Jetpack Compose with compose navigation, hilt and dark theme support and google's app architecture found on uplabs <a href="https://www.uplabs.com/posts/fashion-app-ui-design">Here<a></h4>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
 <p>
-<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181419.png" width="200" height="440"/>
-<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181354.png" width="200" height="440"/>
+<img src="https://github.com/cyph3rcod3r/FashionStore/blob/master/Screenshot_20220911-152423.png" width="200" height="440"/>
+<img src="https://github.com/cyph3rcod3r/FashionStore/blob/master/Screenshot_20220911-152432.png" width="200" height="440"/>
+<img src="https://github.com/cyph3rcod3r/FashionStore/blob/master/Screenshot_20220911-152441.png" width="200" height="440"/>
+<img src="https://github.com/cyph3rcod3r/FashionStore/blob/master/Screenshot_20220911-152453.png" width="200" height="440"/>
 </p>
 
 ## License
